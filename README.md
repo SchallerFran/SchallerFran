@@ -18,8 +18,6 @@ Me especializo en **automatización**, **análisis de datos**, **desarrollo web*
 
 ## 🛠️ Herramientas y Tecnologías
 
-<details>
-<summary>Tools</summary>
 <div>
   <p align="center">
 
@@ -85,4 +83,38 @@ Me especializo en **automatización**, **análisis de datos**, **desarrollo web*
 
   </p>
 </div>
-</details>
+
+---
+
+ ### 💳 Ficha de resumen
+ 
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tr>
+<td style="border: none; padding-right: 8px;">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark"/>
+
+</td>
+<td style="border: none;">
+
+<img
+  alt="SchallerFran top languages"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=10&hide=html,css&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Dónde encontrarme
+<p>
+<a href="https://github.com/SchallerFran" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/franciscoschaller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/schaller.fran" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</p>
+
+
+
+
