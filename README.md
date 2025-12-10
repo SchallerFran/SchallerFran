@@ -1,18 +1,25 @@
 ## Hi there 👋
 
-Soy **Francisco Schaller**, estudiante de Ingeniería en Sistemas en la UTN – FRC y Analista de Sistemas de Información en el CIQA.  
-Me especializo en **automatización**, **análisis de datos**, **desarrollo web** y **conexión de sensores ambientales** (como PurpleAir) para proyectos de monitoreo de la calidad del aire.
+Soy **Francisco Schaller**, estudiante de Ingeniería en Sistemas en la UTN-FRC y Analista de Sistemas de Información en el 
+Centro de Investigación y Transferencia en Ingeniería Química Ambiental (CIQA), UTN-frc.
+Me especializo en automatización de procesos, análisis de datos, desarrollo web y en la integración de sensores ambientales para proyectos de monitoreo y gestión de la calidad del aire.
+Trabajo diseñando soluciones que combinan software, datos y hardware para mejorar la toma de decisiones en entornos técnicos y científicos.
 
 ---
 
-## 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **automatización de procesos, integración de sensores y análisis de la calidad del aire** en el CIQA.  
-- 📡 Desarrollando soluciones que conectan **Python + SQL Server + APIs** para recolectar y procesar datos ambientales.  
-- 🌱 Aprendiendo y fortaleciendo mis conocimientos en **Comunicación de Datos, Angular, SQL Server y Ciencia de Datos**.  
-- 📊 Con fuerte interés en **Data Science, Machine Learning, sistemas distribuidos y arquitectura de software**.  
-- ⚙️ Desarrollando scripts automatizados para **ETLs, APIs, bases de datos y tareas programadas**.  
-- 🧪 Integrando y analizando datos de sensores PurpleAir para **PM2.5, PM10 y variables atmosféricas**.  
-- 🎯 Enfocado en mejorar continuamente mis habilidades técnicas y aplicar tecnología para resolver problemas reales.
+### 🔧 Lo que hago
+- 🔭 Trabajo en **automatización de procesos, integración de sensores y análisis de calidad del aire** dentro del CIQA.  
+- 📡 Desarrollo pipelines que conectan **Python + SQL Server + APIs** para recolectar, transformar y almacenar datos ambientales.  
+- ⚙️ Construyo scripts automatizados para **ETLs, APIs, bases de datos y tareas programadas**, optimizando flujos de trabajo.  
+- 🧪 Integro y analizo datos de sensores como **PurpleAir**, trabajando con series temporales de **PM2.5, PM10 y variables atmosféricas**.
+
+### 📚 Lo que estoy aprendiendo
+- 🌱 Profundizando mis conocimientos en **Analisis de Datos, Ciencia de Datos y Desarrollo Web**.  
+- 📊 Con fuerte interés en **Data Science, Machine Learning, sistemas distribuidos y arquitectura de software**, enfocándome en herramientas que permitan construir soluciones robustas y escalables.
+
+### 🎯 Mi enfoque
+- Enfocado en mejorar continuamente mis habilidades técnicas.  
+- Busco aplicar tecnología para **resolver problemas reales**, generar valor y apoyar proyectos científicos con impacto ambiental.
 
 ---
 
@@ -86,7 +93,7 @@ Me especializo en **automatización**, **análisis de datos**, **desarrollo web*
 
 ---
 
- ### 💳 Ficha de resumen
+ ## 💳 Ficha de resumen
  
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
@@ -108,7 +115,7 @@ Me especializo en **automatización**, **análisis de datos**, **desarrollo web*
 
 ---
 
-### Dónde encontrarme
+## Dónde encontrarme
 <p>
 <a href="https://github.com/SchallerFran" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/franciscoschaller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
