@@ -1,20 +1,22 @@
 ## Hi there 👋
 
-Soy **Francisco Schaller**, estudiante de Ingeniería en Sistemas en la UTN – FRC y Analista en Sistemas de Información en el CIQA.  
-Trabajo con automatización, análisis de datos, desarrollo web y conexión de sensores ambientales como PurpleAir.
+Soy **Francisco Schaller**, estudiante de Ingeniería en Sistemas en la UTN – FRC y Analista de Sistemas de Información en el CIQA.  
+Me especializo en **automatización**, **análisis de datos**, **desarrollo web** y **conexión de sensores ambientales** (como PurpleAir) para proyectos de monitoreo de la calidad del aire.
 
 ---
 
-## 🚀 About Me
-- 🔭 Actualmente trabajando en **automatización y análisis de calidad del aire (CIQA)**  
-- 🌱 Aprendiendo **Comunicación de Datos, SQL Server, Angular y Ciencia de Datos**  
-- 📊 Interesado en **Data Science, Machine Learning y Sistemas de Información**  
-- 🤖 Desarrollando scripts en Python para APIs, bases de datos y tareas automáticas  
-- 🧪 Integrando sensores PurpleAir para PM2.5 y PM10
+## 🚀 Sobre mí
+- 🔭 Actualmente trabajando en **automatización de procesos, integración de sensores y análisis de la calidad del aire** en el CIQA.  
+- 📡 Desarrollando soluciones que conectan **Python + SQL Server + APIs** para recolectar y procesar datos ambientales.  
+- 🌱 Aprendiendo y fortaleciendo mis conocimientos en **Comunicación de Datos, Angular, SQL Server y Ciencia de Datos**.  
+- 📊 Con fuerte interés en **Data Science, Machine Learning, sistemas distribuidos y arquitectura de software**.  
+- ⚙️ Desarrollando scripts automatizados para **ETLs, APIs, bases de datos y tareas programadas**.  
+- 🧪 Integrando y analizando datos de sensores PurpleAir para **PM2.5, PM10 y variables atmosféricas**.  
+- 🎯 Enfocado en mejorar continuamente mis habilidades técnicas y aplicar tecnología para resolver problemas reales.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Herramientas y Tecnologías
 
 <details>
 <summary>Tools</summary>
