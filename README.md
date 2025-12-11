@@ -96,7 +96,22 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
  ## 💳 Ficha de resumen
  
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark" alt="Resumen de perfil" style="width: 100%; max-width: 900px;" /> </p> <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Lenguajes más usados" style="width: 60%; max-width: 700px;" /> </p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark"
+    alt="Resumen de perfil"
+    width="650"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
+    alt="Lenguajes más usados"
+    width="380"
+  />
+</p>
+
 
 
 
