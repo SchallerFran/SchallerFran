@@ -86,6 +86,7 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
     <kbd>Herramientas</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
+    <img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI"/>
   </kbd>
 
   </p>
