@@ -30,7 +30,7 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 
   <!-- Programming Languages -->
   <kbd>
-    <kbd>Programming Languages</kbd><br><br>
+    <kbd>Lenguajes de programación</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
     <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python"/>
   </kbd>
@@ -58,7 +58,7 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 
   <!-- Data Science / Automation -->
   <kbd>
-    <kbd>Automation, Data Science & AI</kbd><br><br>
+    <kbd>Automatización, Ciencia de Datos e IA</kbd><br><br>
     <img width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="Scikit-Learn"/>
     <img width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" title="matplotlib"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy"/>
@@ -68,7 +68,7 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 
   <!-- OS / Deployment -->
   <kbd>
-    <kbd>Operating System, Networking & Deployment</kbd><br><br>
+    <kbd>Sistemas Operativos , Networking & Deployment</kbd><br><br>
     <img width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows"/>
     <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" title="Linux"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git"/>
@@ -83,7 +83,7 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 
   <!-- Tools -->
   <kbd>
-    <kbd>Tools</kbd><br><br>
+    <kbd>Herramientas</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
   </kbd>
@@ -95,20 +95,10 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 
  ## 💳 Ficha de resumen
  
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-<td style="border: none; padding-right: 8px;">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark"/>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark" alt="Resumen de perfil" style="width: 100%; max-width: 900px;" /> </p> <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Lenguajes más usados" style="width: 60%; max-width: 700px;" /> </p>
 
-</td>
-<td style="border: none;">
 
-<img alt="SchallerFran top languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
