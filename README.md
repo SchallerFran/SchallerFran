@@ -122,7 +122,6 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 <p>
 <a href="https://github.com/SchallerFran" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/franciscoschaller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/schaller.fran" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a href="mailto:franschaller91@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 </p>
