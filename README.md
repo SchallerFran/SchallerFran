@@ -95,15 +95,6 @@ Trabajo diseñando soluciones que combinan software, datos y hardware para mejor
 ---
 
  ## 💳 Ficha de resumen
- 
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchallerFran&theme=github_dark"
-    alt="Resumen de perfil"
-    width="650"
-  />
-</p>
 
 <p align="center">
   <img 
