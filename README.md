@@ -14,15 +14,15 @@
 
 </div>
 
-## 👋 Hola
+## <img src="https://api.iconify.design/mdi/hand-wave-outline.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Hola
 
 Soy **Francisco Schaller**, estudiante de **Ingeniería en Sistemas** en la **UTN-FRC** y **Analista de Sistemas de Información** en el **CIQA** (Centro de Investigación y Transferencia en Ingeniería Química Ambiental, UTN-FRC).
 
-Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y planillas**, lo normalizo con **Python**, lo dejo consultable en **SQL Server** y lo devuelvo como **tablero, reporte o herramienta** que alguien usa para decidir. Me interesa el punto donde el software deja de ser un script y se vuelve un proceso que funciona solo, todos los meses, sin que nadie tenga que abrir el código.
+Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y planillas**, lo normalizo con **Python**, lo dejo consultable en **SQL Server** y lo devuelvo como **tablero, reporte o herramienta** que alguien usa para decidir. Me interesa el punto donde el software deja de ser un script y se vuelve un proceso que corre solo, todos los meses, sin que nadie tenga que abrir el código.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 💼 Experiencia
+## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Experiencia
 
 <table>
   <tr>
@@ -36,23 +36,23 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
     <td>Integración de sensores ambientales, pipelines de calidad del aire, desarrollo web y análisis de datos para proyectos científicos.</td>
   </tr>
   <tr>
-    <td><b>Automatización de procesos y datos</b><br><sub>Actualidad</sub></td>
-    <td><b>Hospital Privado Universitario de Córdoba</b><br><sub>Gestión y costos</sub></td>
-    <td>ETL en Python de planillas a SQL Server, post-procesos de asignación por centro de costos, herramientas de escritorio para analistas y modelos de consumo para Power BI.</td>
+    <td><b>Pasantía en Administración y Finanzas</b><br><sub>Actualidad</sub></td>
+    <td><b>Hospital Privado Universitario de Córdoba</b><br><sub>Administración y Finanzas</sub></td>
+    <td>Análisis, diseño e implementación de sistemas para automatizar flujos de información, optimizando procesos internos y mejorando la disponibilidad de datos para apoyar la toma de decisiones.</td>
   </tr>
 </table>
 
-### 🔧 Lo que hago
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Lo que hago
 
-- 🛰️ **Datos ambientales** — ingesta y análisis de sensores **PurpleAir**: series temporales de **PM2.5**, **PM10** y variables meteorológicas.
-- ⚙️ **Automatización de procesos** — ETLs que reemplazan trabajo manual en Excel, con validación, trazabilidad, logs y carga programada a base de datos.
-- 🗄️ **Datos que se consultan** — modelado en **SQL Server** (T-SQL, vistas, stored procedures) y **MySQL**, pensando en quién va a leer la tabla después.
-- 🧩 **Software a medida** — desde portales web (**Angular**, **PHP**) hasta aplicaciones de escritorio empaquetadas para usuarios que nunca abren una consola.
-- 📊 **Decisiones con datos** — **Power BI**, notebooks reproducibles y reportes que responden una pregunta concreta del negocio.
+- <img src="https://api.iconify.design/lucide/satellite-dish.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Datos ambientales** — ingesta y análisis de sensores **PurpleAir**: series temporales de **PM2.5**, **PM10** y variables meteorológicas.
+- <img src="https://api.iconify.design/lucide/settings-2.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Automatización de procesos** — ETLs que reemplazan trabajo manual en Excel, con validación, trazabilidad, logs y carga programada a base de datos.
+- <img src="https://api.iconify.design/lucide/database.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Datos que se consultan** — modelado en **SQL Server** (T-SQL, vistas, stored procedures) y **MySQL**, pensando en quién va a leer la tabla después.
+- <img src="https://api.iconify.design/lucide/puzzle.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Software a medida** — desde portales web (**Angular**, **PHP**) hasta aplicaciones de escritorio empaquetadas para usuarios que nunca abren una consola.
+- <img src="https://api.iconify.design/lucide/chart-column-big.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Decisiones con datos** — **Power BI**, notebooks reproducibles y reportes que responden una pregunta concreta del negocio.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 🛠️ Stack tecnológico
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Stack tecnológico
 
 <div align="center">
 <table>
@@ -123,7 +123,7 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />&nbsp;
       <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />&nbsp;
-      <img src="https://img.shields.io/badge/LLMs_en_producci%C3%B3n-1F6FEB?style=flat-square" alt="LLMs" />
+      <img src="https://img.shields.io/badge/LLMs_aplicados-1F6FEB?style=flat-square" alt="LLMs aplicados" />
     </td>
   </tr>
 </table>
@@ -131,35 +131,35 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 
 <div align="center">
 <sub>
-  <b>También trabajo con:</b> T-SQL y stored procedures · openpyxl / pyodbc · PyInstaller · Tkinter y PySide · Excel avanzado · DAX · Task Scheduler y cron · REST APIs · Markdown y documentación técnica
+  <b>También trabajo con:</b> T-SQL y stored procedures · openpyxl / pyodbc · PyInstaller · Tkinter y PySide · Excel avanzado · DAX · Task Scheduler y cron · REST APIs · documentación técnica
 </sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 📂 Proyectos destacados
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SchallerFran/Portal-de-clientes-CIQA">🧪 Portal de clientes · CIQA</a></h3>
+      <h3><a href="https://github.com/SchallerFran/Portal-de-clientes-CIQA"><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Portal de clientes · CIQA</a></h3>
       <p>Portal web para la gestión de clientes y servicios del centro de investigación: seguimiento de solicitudes, datos de contacto y trazabilidad de los trabajos de laboratorio.</p>
       <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SchallerFran/Clima-y-calidad-del-aire-en-las-ciudades-de-la-India">🌫️ Clima y calidad del aire (India)</a></h3>
+      <h3><a href="https://github.com/SchallerFran/Clima-y-calidad-del-aire-en-las-ciudades-de-la-India"><img src="https://api.iconify.design/mdi/weather-fog.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Clima y calidad del aire · India</a></h3>
       <p>Análisis exploratorio de datos ambientales: relación entre contaminantes y variables meteorológicas en ciudades de la India, con limpieza de series temporales y visualizaciones.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SchallerFran/patrones-comportamiento-clientes">🛒 Patrones de comportamiento de clientes</a></h3>
+      <h3><a href="https://github.com/SchallerFran/patrones-comportamiento-clientes"><img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Patrones de comportamiento de clientes</a></h3>
       <p>Análisis de datos de compras de punta a punta: limpieza, exploración, consultas SQL para identificar patrones y un tablero final con los hallazgos.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SchallerFran/norte-abanicos-angular">🌀 Norte Abanicos · Landing</a></h3>
+      <h3><a href="https://github.com/SchallerFran/norte-abanicos-angular"><img src="https://api.iconify.design/mdi/fan.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Norte Abanicos · Landing</a></h3>
       <p>Landing page comercial en Angular: presentación, catálogo de productos, carrusel, modal de información y formulario de contacto con navegación fluida.</p>
       <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /></p>
     </td>
@@ -167,51 +167,52 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 </table>
 
 <div align="center">
-<sub>Más experimentos en el <a href="https://github.com/SchallerFran?tab=repositories">listado completo de repositorios</a> — chat en tiempo real, sistema de subastas web y más.</sub>
+<sub>Más experimentos en el <a href="https://github.com/SchallerFran?tab=repositories">listado completo de repositorios</a>: chat en tiempo real, sistema de subastas web y otras pruebas.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 📈 Actividad
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Actividad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SchallerFran&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B949E&include_all_commits=true&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8B949E" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SchallerFran&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B949E&include_all_commits=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8B949E&locale=es" alt="Lenguajes más usados" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=SchallerFran&hide_border=true&background=00000000&ring=1F6FEB&fire=F85149&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=1F6FEB&sideLabels=8B949E&dates=6E7681&stroke=30363D&locale=es" alt="Racha de contribuciones" />
 
-<img src="https://github-trophies.vercel.app/?username=SchallerFran&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="Trofeos" />
+<img src="https://github-trophies.vercel.app/?username=SchallerFran&theme=dark_dimmed&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="Trofeos de GitHub" />
 
 <details>
-<summary><b>📊 Ver más métricas</b></summary>
+<summary><img src="https://api.iconify.design/lucide/chart-column-big.svg?color=%231F6FEB&width=18&height=18" alt="" />&nbsp; <b>Ver más métricas</b></summary>
 <br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchallerFran&theme=transparent" alt="Lenguajes por commits" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SchallerFran&theme=transparent" alt="Resumen de actividad" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SchallerFran&theme=transparent&utcOffset=-3" alt="Horario productivo" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchallerFran&theme=transparent" alt="Repos por lenguaje" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchallerFran&theme=transparent" alt="Repositorios por lenguaje" />
 </details>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 🌱 En qué estoy ahora
+## <img src="https://api.iconify.design/lucide/sprout.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; En qué estoy ahora
 
 | Aprendiendo | Por qué |
 | :--- | :--- |
 | **Ciencia de datos y Machine Learning** | Pasar del reporte descriptivo al modelo que anticipa: predicción de picos de contaminación y detección de anomalías en series temporales. |
-| **Arquitectura de software y sistemas distribuidos** | Que lo que hoy corre en una máquina siga funcionando cuando son diez procesos, diez usuarios y un SLA. |
-| **Ingeniería de datos** | Orquestación, idempotencia y versionado de datos: pipelines que se puedan volver a correr sin miedo. |
+| **Arquitectura de software y sistemas distribuidos** | Que lo que hoy corre en una máquina siga funcionando cuando son diez procesos, diez usuarios y una ventana de tiempo que hay que cumplir. |
+| **Ingeniería de datos** | Orquestación, idempotencia y versionado: pipelines que se pueden volver a correr sin miedo. |
 
-### 🎯 Mi enfoque
+### <img src="https://api.iconify.design/lucide/target.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Mi enfoque
 
 > Prefiero el sistema que el analista puede operar solo antes que el script brillante que solo yo entiendo.
+>
 > Una automatización sirve cuando sobrevive a mi ausencia: documentada, con logs, con errores legibles y con una forma clara de corregir a mano lo que el proceso no pudo resolver.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
-## 📬 Dónde encontrarme
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Dónde encontrarme
 
 <div align="center">
 
