@@ -141,24 +141,17 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SchallerFran/Portal-de-clientes-CIQA"><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Portal de clientes · CIQA</a></h3>
-      <p>Portal web para la gestión de clientes y servicios del centro de investigación: seguimiento de solicitudes, datos de contacto y trazabilidad de los trabajos de laboratorio.</p>
-      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /></p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/SchallerFran/Clima-y-calidad-del-aire-en-las-ciudades-de-la-India"><img src="https://api.iconify.design/mdi/weather-fog.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Clima y calidad del aire · India</a></h3>
       <p>Análisis exploratorio de datos ambientales: relación entre contaminantes y variables meteorológicas en ciudades de la India, con limpieza de series temporales y visualizaciones.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/SchallerFran/patrones-comportamiento-clientes"><img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Patrones de comportamiento de clientes</a></h3>
       <p>Análisis de datos de compras de punta a punta: limpieza, exploración, consultas SQL para identificar patrones y un tablero final con los hallazgos.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" /></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/SchallerFran/norte-abanicos-angular"><img src="https://api.iconify.design/mdi/fan.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Norte Abanicos · Landing</a></h3>
       <p>Landing page comercial en Angular: presentación, catálogo de productos, carrusel, modal de información y formulario de contacto con navegación fluida.</p>
       <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /></p>
