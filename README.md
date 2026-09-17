@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:2DD4BF&height=190&section=header&text=Francisco%20Schaller&fontSize=46&fontColor=FFFFFF&fontAlignY=34&desc=Datos%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20Software&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Francisco Schaller" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:2DD4BF&height=190&section=header&text=Francisco%20Schaller&fontSize=46&fontColor=FFFFFF&fontAlignY=34&desc=An%C3%A1lisis%20de%20datos%20%C2%B7%20Automatizaci%C3%B3n%20de%20procesos&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Francisco Schaller" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=760&height=42&lines=Analista+de+Sistemas+de+Informaci%C3%B3n+%40+CIQA+-+UTN+FRC;Automatizaci%C3%B3n+de+procesos+y+pipelines+de+datos;Python+%2B+SQL+Server+%2B+Power+BI;Calidad+del+aire%3A+PM2.5%2C+PM10+y+series+temporales;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%40+UTN+FRC" alt="Qué hago" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=780&height=42&lines=Analista+Funcional+y+Analista+de+Datos+%40+CIQA+-+UTN+FRC;Python+%C2%B7+pandas+%C2%B7+SQL+Server+%C2%B7+Power+BI;Automatizaci%C3%B3n+de+procesos+y+pipelines+ETL;Calidad+del+aire%3A+PM2.5%2C+PM10+y+series+temporales;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%40+UTN+FRC" alt="Qué hago" />
 
 <p>
   <a href="https://www.linkedin.com/in/franciscoschaller/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,9 +16,9 @@
 
 ## <img src="https://api.iconify.design/mdi/hand-wave-outline.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Hola
 
-Soy **Francisco Schaller**, estudiante de **Ingeniería en Sistemas** en la **UTN-FRC** y **Analista de Sistemas de Información** en el **CIQA** (Centro de Investigación y Transferencia en Ingeniería Química Ambiental, UTN-FRC).
+Soy **Francisco Schaller**, estudiante de **Ingeniería en Sistemas de Información** en la **UTN-FRC**. Trabajo como **Analista Funcional** y **Analista de Datos** en el **CIQA** (Centro de Investigación y Transferencia en Ingeniería Química Ambiental, UTN-FRC), y hago mi pasantía de sistemas en **Administración y Finanzas** del **Hospital Privado Universitario de Córdoba**.
 
-Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y planillas**, lo normalizo con **Python**, lo dejo consultable en **SQL Server** y lo devuelvo como **tablero, reporte o herramienta** que alguien usa para decidir. Me interesa el punto donde el software deja de ser un script y se vuelve un proceso que corre solo, todos los meses, sin que nadie tenga que abrir el código.
+Trabajo el dato de punta a punta: relevo el requerimiento con quien lo necesita, diseño la solución, escribo el código y entrego el resultado como tablero, reporte o sistema. Mi núcleo es **Python, pandas, SQL Server y Power BI**. También evalué respuestas de modelos de IA en razonamiento matemático en **Outlier**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
@@ -28,38 +28,58 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
   <tr>
     <th align="left">Rol</th>
     <th align="left">Organización</th>
-    <th align="left">Foco</th>
+    <th align="left">Qué hago</th>
   </tr>
   <tr>
-    <td><b>Analista de Sistemas de Información</b><br><sub>Actualidad</sub></td>
-    <td><b>CIQA — UTN-FRC</b><br><sub>Investigación y transferencia</sub></td>
-    <td>Integración de sensores ambientales, pipelines de calidad del aire, desarrollo web y análisis de datos para proyectos científicos.</td>
-  </tr>
-  <tr>
-    <td><b>Pasantía en Administración y Finanzas</b><br><sub>Actualidad</sub></td>
+    <td><b>Pasante de Sistemas de Información</b><br><sub>jul 2026 — actualidad</sub></td>
     <td><b>Hospital Privado Universitario de Córdoba</b><br><sub>Administración y Finanzas</sub></td>
     <td>Análisis, diseño e implementación de sistemas para automatizar flujos de información, optimizando procesos internos y mejorando la disponibilidad de datos para apoyar la toma de decisiones.</td>
+  </tr>
+  <tr>
+    <td><b>Analista Funcional</b><br><sub>jul 2025 — actualidad</sub></td>
+    <td><b>CIQA — UTN-FRC</b><br><sub>Investigación y transferencia</sub></td>
+    <td>Implementación y optimización de sistemas de información orientados a mejorar los procesos internos del centro: relevamiento con usuarios, modelado UML y puesta en marcha.</td>
+  </tr>
+  <tr>
+    <td><b>Analista de Datos</b><br><sub>oct 2024 — actualidad</sub></td>
+    <td><b>CIQA — UTN-FRC</b><br><sub>Proyecto de calidad del aire</sub></td>
+    <td>Limpieza y preprocesamiento de datos con Python y pandas, generación de los datasets de trabajo y desarrollo de tableros para visualizar e interpretar los resultados.</td>
+  </tr>
+  <tr>
+    <td><b>Analista de Razonamiento Matemático en Modelos de IA</b><br><sub>jul 2024 — dic 2024</sub></td>
+    <td><b>Outlier</b><br><sub>Freelance · Remoto</sub></td>
+    <td>Evaluación de respuestas generadas por modelos de IA ante consignas matemáticas: precisión, consistencia y calidad del razonamiento, identificando errores en álgebra, cálculo y trigonometría.</td>
   </tr>
 </table>
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Lo que hago
 
-- <img src="https://api.iconify.design/lucide/satellite-dish.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Datos ambientales** — ingesta y análisis de sensores **PurpleAir**: series temporales de **PM2.5**, **PM10** y variables meteorológicas.
-- <img src="https://api.iconify.design/lucide/settings-2.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Automatización de procesos** — ETLs que reemplazan trabajo manual en Excel, con validación, trazabilidad, logs y carga programada a base de datos.
-- <img src="https://api.iconify.design/lucide/database.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Datos que se consultan** — modelado en **SQL Server** (T-SQL, vistas, stored procedures) y **MySQL**, pensando en quién va a leer la tabla después.
-- <img src="https://api.iconify.design/lucide/puzzle.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Software a medida** — desde portales web (**Angular**, **PHP**) hasta aplicaciones de escritorio empaquetadas para usuarios que nunca abren una consola.
-- <img src="https://api.iconify.design/lucide/chart-column-big.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Decisiones con datos** — **Power BI**, notebooks reproducibles y reportes que responden una pregunta concreta del negocio.
+- <img src="https://api.iconify.design/lucide/workflow.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Pipelines ETL** — ingesta, limpieza y normalización con **Python** y **pandas**, con validación, logs y carga programada a **SQL Server**.
+- <img src="https://api.iconify.design/lucide/app-window.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Sistemas de gestión internos** — relevamiento con los usuarios, modelado **UML**, desarrollo y puesta en marcha.
+- <img src="https://api.iconify.design/lucide/chart-column-big.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Tableros que se usan** — **Power BI** sobre modelos de datos propios, para que la decisión no dependa de una planilla que alguien actualiza a mano.
+- <img src="https://api.iconify.design/lucide/wind.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Calidad del aire** — series temporales de **PM2.5**, **PM10** y variables meteorológicas; análisis estadístico y presentación de resultados.
+- <img src="https://api.iconify.design/lucide/settings-2.svg?color=%231F6FEB&width=17&height=17" alt="" /> **Automatización de procesos** — reemplazar trabajo manual repetitivo por procesos con trazabilidad, que corren solos y avisan cuando algo no cierra.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Stack tecnológico
 
 <div align="center">
+
+<b>Núcleo</b><br>
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/Power_BI-1F6FEB?style=for-the-badge" alt="Power BI" />
+<img src="https://img.shields.io/badge/An%C3%A1lisis_de_datos-1F6FEB?style=for-the-badge" alt="Análisis de datos" />
+
+<br><br>
+
 <table>
   <tr>
     <td align="right"><b>Lenguajes</b></td>
     <td>
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" />&nbsp;
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" />&nbsp;
@@ -68,34 +88,44 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Datos & ETL</b></td>
+    <td align="right"><b>Datos y ETL</b></td>
     <td>
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy / pyodbc" alt="SQLAlchemy" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" />
+      <img src="https://img.shields.io/badge/pyodbc-30363D?style=flat-square" alt="pyodbc" />&nbsp;
+      <img src="https://img.shields.io/badge/openpyxl-30363D?style=flat-square" alt="openpyxl" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Análisis & BI</b></td>
+    <td align="right"><b>Estadística y ML</b></td>
     <td>
-      <img width="28" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" title="Power BI (DAX)" alt="Power BI" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib / Seaborn" alt="Matplotlib" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" />&nbsp;
+      <img src="https://img.shields.io/badge/Estad%C3%ADstica_inferencial-30363D?style=flat-square" alt="Estadística inferencial" />&nbsp;
+      <img src="https://img.shields.io/badge/An%C3%A1lisis_multivariado-30363D?style=flat-square" alt="Análisis multivariado" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>BI y visualización</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" title="Power BI" alt="Power BI" />&nbsp;
+      <img src="https://img.shields.io/badge/DAX-30363D?style=flat-square" alt="DAX" />&nbsp;
+      <img src="https://img.shields.io/badge/Excel_avanzado-30363D?style=flat-square" alt="Excel avanzado" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Bases de datos</b></td>
     <td>
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server (T-SQL)" alt="SQL Server" />&nbsp;
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" />
+      <img src="https://img.shields.io/badge/T--SQL-30363D?style=flat-square" alt="T-SQL" />&nbsp;
+      <img src="https://img.shields.io/badge/Stored_procedures-30363D?style=flat-square" alt="Stored procedures" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Web & APIs</b></td>
+    <td align="right"><b>Web y APIs</b></td>
     <td>
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Angular" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" />&nbsp;
@@ -107,15 +137,23 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Entorno & DevOps</b></td>
+    <td align="right"><b>Análisis y diseño</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/UML-30363D?style=flat-square" alt="UML" />&nbsp;
+      <img src="https://img.shields.io/badge/Relevamiento_de_requerimientos-30363D?style=flat-square" alt="Relevamiento de requerimientos" />&nbsp;
+      <img src="https://img.shields.io/badge/Dise%C3%B1o_de_sistemas-30363D?style=flat-square" alt="Diseño de sistemas" />&nbsp;
+      <img src="https://img.shields.io/badge/Modelado_de_procesos-30363D?style=flat-square" alt="Modelado de procesos" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Entorno y DevOps</b></td>
     <td>
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" />&nbsp;
       <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" />&nbsp;
-      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" />
     </td>
   </tr>
   <tr>
@@ -123,7 +161,7 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />&nbsp;
       <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />&nbsp;
-      <img src="https://img.shields.io/badge/LLMs_aplicados-1F6FEB?style=flat-square" alt="LLMs aplicados" />
+      <img src="https://img.shields.io/badge/Evaluaci%C3%B3n_de_modelos_de_IA-30363D?style=flat-square" alt="Evaluación de modelos de IA" />
     </td>
   </tr>
 </table>
@@ -131,7 +169,7 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 
 <div align="center">
 <sub>
-  <b>También trabajo con:</b> T-SQL y stored procedures · openpyxl / pyodbc · PyInstaller · Tkinter y PySide · Excel avanzado · DAX · Task Scheduler y cron · REST APIs · documentación técnica
+  <b>También trabajo con:</b> PyInstaller · Tkinter y PySide · automatización de tareas programadas · REST APIs · series temporales · ANOVA y contraste de hipótesis · documentación técnica
 </sub>
 </div>
 
@@ -165,25 +203,47 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
 
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Formación
+
+<table>
+  <tr>
+    <th align="left">Formación</th>
+    <th align="left">Institución</th>
+    <th align="left">Estado</th>
+  </tr>
+  <tr>
+    <td><b>Ingeniería en Sistemas de Información</b></td>
+    <td>UTN — Facultad Regional Córdoba</td>
+    <td>2022 — 2028 · en curso</td>
+  </tr>
+  <tr>
+    <td><b>Diplomatura Superior en Ciencia de Datos Aplicada</b><br><sub>Estadística inferencial, modelado supervisado y no supervisado, análisis multivariado y validación de modelos</sub></td>
+    <td>UTN — Facultad Regional Córdoba</td>
+    <td>feb 2026 · finalizada</td>
+  </tr>
+  <tr>
+    <td><b>PHP y MySQL inicial</b></td>
+    <td>Centro de e-Learning UTN-FRBA</td>
+    <td>ene 2026 · finalizada</td>
+  </tr>
+</table>
+
+<div align="center">
+<sub>Y 4 certificaciones más en <a href="https://www.linkedin.com/in/franciscoschaller/details/certifications/">mi perfil de LinkedIn</a>.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=2&section=header" width="100%" alt="" />
+
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%231F6FEB&width=24&height=24" alt="" />&nbsp; Actividad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SchallerFran&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B949E&include_all_commits=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8B949E&locale=es" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SchallerFran&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B949E&include_all_commits=true&rank_icon=github&custom_title=Resumen%20de%20actividad" alt="Resumen de actividad en GitHub" />
+<img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SchallerFran&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8B949E&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes más usados" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=SchallerFran&hide_border=true&background=00000000&ring=1F6FEB&fire=F85149&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=1F6FEB&sideLabels=8B949E&dates=6E7681&stroke=30363D&locale=es" alt="Racha de contribuciones" />
-
-<img src="https://github-trophies.vercel.app/?username=SchallerFran&theme=dark_dimmed&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="Trofeos de GitHub" />
-
-<details>
-<summary><img src="https://api.iconify.design/lucide/chart-column-big.svg?color=%231F6FEB&width=18&height=18" alt="" />&nbsp; <b>Ver más métricas</b></summary>
 <br>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchallerFran&theme=transparent" alt="Lenguajes por commits" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SchallerFran&theme=transparent" alt="Resumen de actividad" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SchallerFran&theme=transparent&utcOffset=-3" alt="Horario productivo" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchallerFran&theme=transparent" alt="Repositorios por lenguaje" />
-</details>
+
+<img src="https://github-trophies.vercel.app/?username=SchallerFran&theme=dark_dimmed&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage,LongTimeUser,NewUser,Commits" alt="Trofeos de GitHub" />
 
 </div>
 
@@ -193,9 +253,9 @@ Trabajo sobre el camino completo del dato: lo capturo desde **sensores, APIs y p
 
 | Aprendiendo | Por qué |
 | :--- | :--- |
-| **Ciencia de datos y Machine Learning** | Pasar del reporte descriptivo al modelo que anticipa: predicción de picos de contaminación y detección de anomalías en series temporales. |
-| **Arquitectura de software y sistemas distribuidos** | Que lo que hoy corre en una máquina siga funcionando cuando son diez procesos, diez usuarios y una ventana de tiempo que hay que cumplir. |
+| **Machine learning en producción** | Ya tengo la base estadística de la Diplomatura en Ciencia de Datos; ahora quiero llevarla al modelo que anticipa: predicción de picos de contaminación y detección de anomalías en series temporales. |
 | **Ingeniería de datos** | Orquestación, idempotencia y versionado: pipelines que se pueden volver a correr sin miedo. |
+| **Arquitectura de software** | Que lo que hoy corre en una máquina siga funcionando cuando son diez procesos, diez usuarios y una ventana de tiempo que hay que cumplir. |
 
 ### <img src="https://api.iconify.design/lucide/target.svg?color=%231F6FEB&width=20&height=20" alt="" />&nbsp; Mi enfoque
 
